@@ -138,6 +138,7 @@
             System.Console.WriteLine("Invalid choice.")
         End If
 
+        ' Programmer Information and GitHub ID
         System.Console.ForegroundColor = ConsoleColor.Gray
         System.Console.WriteLine("-----------------------")
         System.Console.ForegroundColor = ConsoleColor.Red
