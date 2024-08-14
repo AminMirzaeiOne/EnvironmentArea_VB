@@ -28,4 +28,6 @@ This program calculates the perimeter and area of ​​5 shapes that include (s
 8 - View the result
 
 <h2>📷 Screenshots</h2>
-<img width="675" alt="Capture" src="https://github.com/user-attachments/assets/16e3e619-0830-4c90-8a68-06cba6e7c3a4">
+<img width="715" alt="Capture11" src="https://github.com/user-attachments/assets/33d773a2-d636-4fed-a5cb-df37c9f554c6">
+<img width="717" alt="Capture12" src="https://github.com/user-attachments/assets/9b3296c4-5606-453f-965d-d2c7680e1f7a">
+<img width="718" alt="Capture13" src="https://github.com/user-attachments/assets/33bea65d-40e3-4e75-a82e-e81d1580e916">
