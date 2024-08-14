@@ -2,6 +2,7 @@
 
 <h2> 👨‍💻 About Project</h2>
 Among the first projects of Amin Mirzaei after learning the basic concepts of Visual Basic <br />
+----------------------------------------------- <br />
 This program calculates the perimeter and area of ​​5 shapes that include (square, rectangle, circle, rhombus, triangle) according to the user's choice and displays it on the console screen <br />
 
 <h2> 🏗 Build Information</h2>
